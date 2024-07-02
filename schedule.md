@@ -10,7 +10,7 @@ The Summer School will take place from **Monday 16th September - Friday 20th Sep
 
 ### Day 1: Monday 16th September 2024
 
-* 10:00 - 14:00 **How to Cloud** -  Introduction, de.NBI Cloud & Project Idea
+* **How to Cloud** -  Introduction, de.NBI Cloud & Project Idea
   
 Getting to know the de.NBI Cloud and each other - celebrating interdisciplinary and technological progress. Dive into access, roles and requirements and learn more about the project idea. 
 
@@ -18,14 +18,14 @@ Getting to know the de.NBI Cloud and each other - celebrating interdisciplinary 
   
 ### Day 2: Tuesday 17th September 2024
 
-* 10:00 - 14:00 **How to Data** - Data Management, Data Protection & Data Ethics 
+* **How to Data** - Data Management, Data Protection & Data Ethics 
   
 To be actually able to let the data work for us, we will have to work for the data: sketch a data management plan, record all processing activities GDPR-wise, ensuring IT-security and ethically sound and unbiased FAIR data.
 
   
 ### Day 3: Wednesday 18th September 2024
 
-* 10:00 - 14:00 **How to LLM** - Installation & Deployment of the Large Language Model 
+* **How to LLM** - Installation & Deployment of the Large Language Model 
   
 Now we are finally ready for the long awaited action: Today we will deploy our own LLM in the de.NBI cloud. Learn all the practical in and outs of generative AI and transformer architecture. And see if all our previous days' planning efforts come to fruition.
 
@@ -34,14 +34,14 @@ Now we are finally ready for the long awaited action: Today we will deploy our o
 
 ### Day 4: Thursday 19th September 2024
 
-* 10:00 - 14:00 **How to Service**  - Ensuring continous support throughout operation  
+* **How to Service**  - Ensuring continous support throughout operation  
   
-We are live - but for how long? Today you will once again look dive into technical details such as Lets encrypt certificates, Reverseproxy, User Authentification and Backup- which are fundamental to keep our service up and running.
+We are live - but for how long? Today we will once again look dive into technical details - such as Lets encrypt certificates, Reverseproxy, User Authentification and Backup - which are fundamental to keep our service up and running.
   
 ### Day 5: Friday 20th September 2024
 
-* 10:00 - 14:00 **How to Sucess** -  Real Life Examples, Q&A and Discussion 
+*  **How to Sucess** -  Real Life Examples, Q&A and Discussion 
    
-You've made it! Today we will wrap up our week's work: We will reserve some time for self-study and Q&A to complete your hands on examples. And we will look at some real life examples, and discuss their sucesses and challenges.
+You've made it! Today we will wrap up our week's work: We will reserve some time for self-study and Q&A to complete your hands-on examples. And we will look at some real life examples, and discuss their sucesses and challenges.
   
 <a href="https://www.researchgate.net/publication/380318097_The_unmet_promise_of_trustworthy_AI_in_healthcare_why_we_fail_at_clinical_translation/" ><img src="images/PDF_icon.png" alt="PDF Madai Unmet Promise" height="18"/></a> - Recommended Reading
