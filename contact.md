@@ -8,7 +8,7 @@ The Summer School is part of the [German Center of Competence in Cloud Computing
 
 It is organized by the [Research Group Cloud & IT](https://www.hidih.org/research/health-data) of the [Institute of Digital Health](https://www.bihealth.org/en/notices/eils-lab-bih-digital-health-center) at the
 
-<img alt="BIH @ Charité " width="50%" height="50%" src="images/BIH_Logo_at-Charite_kurz_quer_rgb.png">
+<img alt="BIH Berlin Institute of Health @ Charité " width="50%" height="50%" src="images/BIH_Logo_at-Charite_kurz_quer_rgb.png">
 
 
 

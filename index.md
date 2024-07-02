@@ -2,13 +2,13 @@
 layout: page
 title: Home
 ---
-<img width="1239" alt="Deploying LLMs in the Cloud" src="images/3d-abstract-particl.title.png">
+<img width="1239" alt=" 'Deploying LLMs in the Cloud' written over an image of computergenerated waves " src="images/3d-abstract-particl.title.png">
 
 <p align="center">
  <b>Summer School</b> ⬤ <b> de.NBI Cloud</b> ⬤ <b> Large Language Models</b> ⬤ <b> 16-20 September 2024</b> ⬤ <b> Online</b> 
 </p>
 <p align="center">
-  <b><a href="https://www.denbi.de/training">>> Register here <<</a></b>
+  <b><a href="https://docs.google.com/forms/d/1u1R9tYk47H7f-RM9ynS2_e8Fz7yAu0mrbXnL3VHaguo/">>> Register here <<</a></b>
 </p>
 
 ### About
@@ -25,7 +25,7 @@ In the course of the week we will give you a thourough walk through a complete l
 - **Dr. Sebastian Lobentanzer:** Uni Heidelberg - Biomedical researcher and developer of [BioChatter](https://biochatter.org/)
 - **Prof. Dr. Fabian Praßer:** Berlin Institute of Health @ Charite - Head of [Medical Informatics Group](https://www.bihealth.org/en/research/research-group/prasser-lab-medical-informatics)
 - **Martin Braun:** Berlin Institute of Health @ Charite - Developer at the [Research Group Cloud & IT](https://www.hidih.org/research/health-data)
-- **Jakob Mathis:** Berlin Institute of Health @ Charite - Sytems Administrator at [Research Group Cloud & IT](https://www.hidih.org/research/health-data)
+- **Jakob Mathis:** Berlin Institute of Health @ Charite - Sytems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
 
 
 ### Participants
