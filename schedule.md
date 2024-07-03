@@ -36,7 +36,7 @@ Now we are finally ready for the long awaited action: Today we will deploy our o
 
 * **How to Service**  - Ensuring continous support throughout operation  
   
-We are live - but for how long? Today we will once again look dive into technical details - such as Lets encrypt certificates, Reverseproxy, User Authentification and Backup - which are fundamental to keep our service up and running.
+We are live - but for how long? Today we will once again dive into technical details - such as Lets encrypt certificates, Reverseproxy, User Authentification and Backup - which are fundamental to keep our service up and running.
   
 ### Day 5: Friday 20th September 2024
 

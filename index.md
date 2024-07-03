@@ -17,7 +17,7 @@ Ever wanted to look behind the - technical and organisational - scenes of Large 
 
 This summer school will provide practical answers by working through your own hands-on LLM example in the [de.NBI cloud](https://www.denbi.de/cloud). It is part of the de.KCD project which aims to to systemize and share the unique competence and knowledge from the de.NBI community - e.g. in difficult topics such as handling of sensitive data - across different sites and disciplines. Instead of struggling through the steps alone and reinventing the AI wheel over and over again we want to bring our joint expertise together providing you with a common, tried and tested workflow for cutting edge research.
 
-In the course of the week we will give you a thourough walk through a complete life-cycle of LLM deployment in the cloud.  We will dive into the individual stages of the „day zero one two operation“ concept of software engineering - where day 0 is the planning and design phase (including setting up your cloud access and sketching your datamanagement plan); day 1 is go-live (installing and deploying your LLM); and day 2 is continuous operations (including backups and user authentification) and everything else that comes after going live — in our best case scenario, the never-ending day. 
+In the course of the week we will give you a thourough walk through a complete life-cycle of LLM deployment in the cloud.  We will dive into the individual stages of the „day zero one two operation" concept of software engineering - where day 0 is the planning and design phase (including setting up your cloud access and sketching your datamanagement plan); day 1 is go-live (installing and deploying your LLM); and day 2 is continuous operations (including backups and user authentification) and everything else that comes after going live — in our best case scenario, the never-ending day. 
 
 
 ### Educators
@@ -26,6 +26,7 @@ In the course of the week we will give you a thourough walk through a complete l
 - **Prof. Dr. Fabian Praßer:** Berlin Institute of Health @ Charite - Head of [Medical Informatics Group](https://www.bihealth.org/en/research/research-group/prasser-lab-medical-informatics)
 - **Martin Braun:** Berlin Institute of Health @ Charite - Developer at the [Research Group Cloud & IT](https://www.hidih.org/research/health-data)
 - **Jakob Mathis:** Berlin Institute of Health @ Charite - Sytems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
+- **Foo Wei Ten:** Berlin Institute of Health @ Charite - Sytems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
 
 
 ### Participants
@@ -59,7 +60,7 @@ In the course of the week we will give you a thourough walk through a complete l
 
 **Contact:** For more information email Lisa Schaak, [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de)
 
-**Registration:** Please register via [this webform](https://www.denbi.de/helpdesk?option=com_rsform&view=rsform&formId=7) by Monday 9th September 2024.
+**Registration:** Please register via [this webform](https://docs.google.com/forms/d/1u1R9tYk47H7f-RM9ynS2_e8Fz7yAu0mrbXnL3VHaguo/) by Monday 9th September 2024.
 
 **Costs:** Registration for the [de.KCD](https://datenkompetenz.cloud/) Summer School is free of charge. 
 
