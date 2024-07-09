@@ -24,9 +24,7 @@ In the course of the week we will give you a thourough walk through a complete l
 
 - **Dr. Sebastian Lobentanzer:** Uni Heidelberg - Biomedical researcher and developer of [BioChatter](https://biochatter.org/)
 - **Prof. Dr. Fabian Praßer:** Berlin Institute of Health @ Charite - Head of [Medical Informatics Group](https://www.bihealth.org/en/research/research-group/prasser-lab-medical-informatics)
-
 - **Dr. Jeanne Wilbrandt:** Leibniz Institute on Aging - Fritz Lipmann Institute -  [Data Steward](https://www.leibniz-fli.de/research/good-scientific-practice/data-steward-at-fli)
-
 - **Martin Braun:** Berlin Institute of Health @ Charite - Developer at the [Research Group Cloud & IT](https://www.hidih.org/research/health-data)
 - **Jakob Mathis:** Berlin Institute of Health @ Charite - Sytems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
 - **Foo Wei Ten:** Berlin Institute of Health @ Charite - Sytems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
@@ -38,7 +36,7 @@ In the course of the week we will give you a thourough walk through a complete l
 
 **Prerequisites:**  For following the practical exercises, you will need at least basic terminal knowledge (Linux/OSX Terminal). Technical affinity and previous coding experience will help you on your way. We will provide detailed written step-by-step instructions for everyone throughout and after the workshop. 
 
-**Learning goals:** Participants will deploy their own LLM in the de.NBI cloud by a step-by-step guided journey through a complete lifecycle from design (Day 0) via deployment (Day 1) to productive operation (Day 2).
+**Learning goals:** Participants will deploy their own LLM in the de.NBI cloud by a step-by-step guided journey through a complete lifecycle from design via deployment to productive operation.
 
 ### Content
 
