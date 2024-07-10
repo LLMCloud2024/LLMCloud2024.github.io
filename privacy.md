@@ -10,7 +10,7 @@ This website does not use any cookies. We provide this website by using github.c
 
 For registration to the summer school we link to DFN Terminplaner. Their privacy policy is available here: [https://terminplaner6.dfn.de/en/node/290](https://terminplaner6.dfn.de/en/node/290)
 
-By signing up you allow us to process your name and emailadress to contact you with further organisational details of the summer school (e.g. starting hours, log-ins for the Microsoft Teams meetings, training material etc.).
+By signing up you allow us to process your name and email address to contact you with further organisational details of the summer school (e.g. starting hours, log-ins for the Microsoft Teams meetings, training material etc.).
 
 We will also require participants at the summer school to daily sign into attendance sheets (using full name, institute and department). This data is used to document the event for our [partners and funders](https://llmcloud2024.github.io/contact.html) and to provide certificates of participation upon request.
 
@@ -25,9 +25,13 @@ Furthermore as a data subject according to the EU-GDPR you have a right to:
 - withdraw the consent for the future
 - lodge a complaint with the responsible supervisory authority.
 
-Adress of responsible party for the processing of your data in the sense of the EU-GDPR: Berlin Institute of Health @ Charite, authorized representative: Prof. Dr. Christopher H. Baum, Anna-Louisa-Karsch-Str. 2, 10178 Berlin. Digital Health Center, founding director: Prof. Dr. Roland Eils, Luisenstr. 65, 10117 Berlin.
 
-Adress of the responsible supervisory authority in the sense of the EU-GDPR: Berliner Beauftragte für Datenschutz und Informationsfreiheit, Friedrichstraße 219, 10969 Berlin.
+Responsible party for the processing of your data in the sense of the EU-GDPR: Berlin Institute of Health at Charité (BIH), [Digital Health Center](https://www.bihealth.org/en/research/research-group/eils-lab-bih-digital-health-center), Luisenstr. 65, 10117 Berlin.
+
+
+Data protection officer of the responsible party: [Datenschutzbeauftragte der Charité – Universitätsmedizin Berlin](https://www.charite.de/service/datenschutz/), Charitéplatz 1, 10117 Berlin.
+
+Responsible supervisory authority in the sense of the EU-GDPR: [Berliner Beauftragte für Datenschutz und Informationsfreiheit](https://www.datenschutz-berlin.de/ueber-uns/kontakt/), Alt-Moabit 59-61, 10555 Berlin.
 
 Last update: July 10, 2024
 
