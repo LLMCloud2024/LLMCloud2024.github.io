@@ -8,7 +8,7 @@ title: Home
  <b>Summer School</b> ⬤ <b> de.NBI Cloud</b> ⬤ <b> Large Language Models</b> ⬤ <b> 16-20 September 2024</b> ⬤ <b> Online</b> 
 </p>
 <p align="center">
-  <b><a href="https://terminplaner6.dfn.de/b/8b6fa4ec4fbfa0274dec31ad9635ed3e-804773">>> Register here <<</a></b>
+  <b><a href="">>> Register here <<</a></b>
 </p>
 
 ### About
@@ -26,13 +26,13 @@ In the course of the week we will give you a thourough walk through a complete l
 - **Prof. Dr. Fabian Praßer:** Berlin Institute of Health @ Charite - Head of [Medical Informatics Group](https://www.bihealth.org/en/research/research-group/prasser-lab-medical-informatics)
 - **Dr. Jeanne Wilbrandt:** Leibniz Institute on Aging - Fritz Lipmann Institute -  [Data Steward](https://www.leibniz-fli.de/research/good-scientific-practice/data-steward-at-fli)
 - **Martin Braun:** Berlin Institute of Health @ Charite - Developer at the [Research Group Cloud & IT](https://www.hidih.org/research/health-data)
-- **Jakob Mathis:** Berlin Institute of Health @ Charite - Sytems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
-- **Foo Wei Ten:** Berlin Institute of Health @ Charite - Sytems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
+- **Jakob Mathis:** Berlin Institute of Health @ Charite - Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
+- **Foo Wei Ten:** Berlin Institute of Health @ Charite - Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
 
 
 ### Participants
 
-**Target audience:** Everyone interested in digging into the technical and organisational details of deploying Large Language Models for research via cloud infrastructure. Our educators are mainly from a biomedical and IT background. However, we are looking forward to interdisciplinary exchange with research-developers and developer-researcher from all kinds of academic disciplines.
+**Target audience:** Everyone interested in digging into the technical and organisational details of deploying Large Language Models for research via cloud infrastructure. Our educators are mainly from a biomedical and IT background. However, we are looking forward to interdisciplinary exchange with research-developers and developer-researchers from all kinds of academic disciplines.
 
 **Prerequisites:**  For following the practical exercises, you will need at least basic terminal knowledge (Linux/OSX Terminal). Technical affinity and previous coding experience will help you on your way. We will provide detailed written step-by-step instructions for everyone throughout and after the workshop. 
 
@@ -61,11 +61,11 @@ In the course of the week we will give you a thourough walk through a complete l
 
 **Contact:** For more information email Lisa Schaak, [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de)
 
-**Registration:** Please register via [this webform](https://terminplaner6.dfn.de/b/8b6fa4ec4fbfa0274dec31ad9635ed3e-804773) by Monday 9th September 2024.
+**Registration:** Please register via [the events.hifis.net webform](https://terminplaner6.dfn.de/b/8b6fa4ec4fbfa0274dec31ad9635ed3e-804773) by Monday 9th September 2024. There is a maximum of 35 participants for the hands-on part. First come, first serve. Afterwards it's listening-only.
 
-**Costs:** Registration for the [de.KCD](https://datenkompetenz.cloud/) Summer School is free of charge. 
+**Costs & Benefits:** Registration for the [de.KCD](https://datenkompetenz.cloud/) Summer School is free of charge. We will not be able to offer any ECTS credit points but we can provide you with a certificate of attendance if you wish so. 
 
-### Code of Conduct
-As de.NBI partners we are part of the German Node of ELIXIR. We therefore commit to the [ELIXIR Germany Code of Conduct](https://www.denbi.de/code-of-conduct) aiming to ensure all participants at our events can interact with each other in a respectful and safe environment, and have avenues to turn to in case they believe there has been a breach to this Code of Conduct.
+
+
 
 *We will continue to update this website until the start of the Summer School - Stay tuned!*
