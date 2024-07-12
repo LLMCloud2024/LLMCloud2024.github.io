@@ -8,11 +8,11 @@ This website does not use any cookies. We provide this website by using github.c
 
 ### Registration to the de.KCD Summer School 2024
 
-For registration to the summer school we link to DFN Terminplaner. Their privacy policy is available here: [https://terminplaner6.dfn.de/en/node/290](https://terminplaner6.dfn.de/en/node/290)
+For registration to the summer school we link to [events.hifis.net](events.hifis.net). Their privacy policy is available here: [https://www.desy.de/data_privacy_policy/index_eng.html](https://www.desy.de/data_privacy_policy/index_eng.html)
 
 By signing up you allow us to process your name and email address to contact you with further organisational details of the summer school (e.g. starting hours, log-ins for the Microsoft Teams meetings, training material etc.).
 
-We will also require participants at the summer school to daily sign into attendance sheets (using full name, institute and department). This data is used to document the event for our [partners and funders](https://llmcloud2024.github.io/contact.html) and to provide certificates of participation upon request.
+We will also require participants at the summer school to daily sign into attendance sheets (using full name, institute and department). This data is used to document the event for our [funders](https://llmcloud2024.github.io/contact.html) and to provide certificates of participation upon request.
 
 By participating you have given consent to the processing of your personal data as outlined above in accordance to [article 6(1)(a) of the EU-GDPR](https://gdpr.eu/article-6-how-to-process-personal-data-legally/). We will process the data only as long as is needed for the preparation, organisation and follow-up of the event and the documentation for our funders, or for compliance with any legal obligations on archiving data. You can withdraw your consent at any time for the future and - unless there are any legal obligations which prevent this - we will earase your data without undue delay. Participation at the summer school might no longer be possible in this case.
 
