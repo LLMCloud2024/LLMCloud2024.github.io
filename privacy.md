@@ -12,20 +12,20 @@ The following information must be provided to you in accordance with Art. 13 of 
 
 Controller for the purposes of the EU GDPR, other data protection laws applicable in Member states of the European Union and other provisions related to data protection is: 
 
-   Berliner Institut für Gesundheitsforschung in der Charité
-   Translationsforschungsbereich der Charité – Universitätsmedizin Berlin
-   Anna-Louisa-Karsch-Str. 2
-   D-10178 Berlin
-   Website: [https://www.bihealth.org/en/](https://www.bihealth.org/en/)
-   Email: [info@bih-charite.de](mailto:info@bih-charite.de)
+    Berliner Institut für Gesundheitsforschung in der Charité
+    Translationsforschungsbereich der Charité – Universitätsmedizin Berlin
+    Anna-Louisa-Karsch-Str. 2
+    D-10178 Berlin
+    Website: [https://www.bihealth.org/en/](https://www.bihealth.org/en/)
+    Email: [info@bih-charite.de](mailto:info@bih-charite.de)
 
 #### Name and address of the data protection officer
 
-   Datenschutzbeauftragte der Charité – Universitätsmedizin Berlin
-   Charitéplatz 1
-   D-10117 Berlin
-   Phone: + 49 30 450 580 016
-   Email: [datenschutzbeauftragte@charite.de](mailto:datenschutzbeauftragte@charite.de)
+    Datenschutzbeauftragte der Charité – Universitätsmedizin Berlin
+    Charitéplatz 1
+    D-10117 Berlin
+    Phone: + 49 30 450 580 016
+    Email: [datenschutzbeauftragte@charite.de](mailto:datenschutzbeauftragte@charite.de)
 
 #### Purpose and legal basis
 
@@ -74,11 +74,11 @@ You can assert the aforementioned rights at [datenschutzbeauftragte@charite.de](
 
 You also have the right to lodge a complaint with the data protection supervisory authority (Berlin's Commissioner for Data Protection and Freedom of Information):
 
-   Berliner Beauftragte für Datenschutz und Informationsfreiheit
-   Alt-Moabit 59-61
-   D-10555 Berlin
-   Phone: +49 30 13889-0
-   Email: [mailbox@datenschutz-berlin.de](mailto:mailbox@datenschutz-berlin.de)
+    Berliner Beauftragte für Datenschutz und Informationsfreiheit
+    Alt-Moabit 59-61
+    D-10555 Berlin
+    Phone: +49 30 13889-0
+    Email: [mailbox@datenschutz-berlin.de](mailto:mailbox@datenschutz-berlin.de)
 
 #### Provision of data
 
