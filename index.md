@@ -13,59 +13,57 @@ title: Home
 
 ### About
 
-Ever wanted to look behind the - technical and organisational - scenes of Large Language Models? Already having your own AI reseach project sketched out but unsure of how to actually get started? Looking for cloud storage to power up your LLM but getting stuck in regulatory demands?
+Ever wanted to look behind the – technical and organizational – scenes of large language models ? Already have your own AI research project sketched out but unsure of how to actually get started? Looking for cloud storage to power up your LLM but getting caught up in regulatory requirements?
 
-This summer school will provide practical answers by working through your own hands-on LLM example in the [de.NBI cloud](https://www.denbi.de/cloud). It is part of the [de.KCD](https://datenkompetenz.cloud/) project which aims to to systemize and share the unique competence and knowledge from the de.NBI community - e.g. in difficult topics such as handling of sensitive data - across different sites and disciplines. Instead of struggling through the steps alone and reinventing the AI wheel over and over again we want to bring our joint expertise together providing you with a common, tried and tested workflow for cutting edge research.
+This summer school will provide practical answers by working with you on your own hands-on sample LLM in the [de.NBI cloud](https://www.denbi.de/cloud). It is part of the [de.KCD](https://datenkompetenz.cloud/) project which aims to systematize and share the unique competence and knowledge of the de.NBI community – e.g., with regard to difficult topics such as handling sensitive data – across different sites and disciplines. Instead of struggling through the steps on your own and reinventing the AI wheel over and over again, we aim to pool our joint expertise and provide you with a shared, tried-and-tested workflow for cutting-edge research.
 
-In the course of the week we will give you a thourough walk through a complete life-cycle of LLM deployment in the cloud.  We will dive into the individual stages of the „day zero one two operation" concept of software engineering - where day 0 is the planning and design phase (including setting up your cloud access and sketching your datamanagement plan); day 1 is go-live (installing and deploying your LLM); and day 2 is continuous operations (including backups and user authentification) and everything else that comes after going live — in our best case scenario, the never-ending day. 
+Over the course of the week, we will walk you through the entire lifecycle of LLM deployment in the cloud. We will take a deep dive into the individual stages of the “day zero one two operation” concept of software engineering – where day 0 is the planning and design phase (including setting up your cloud access and drafting your data management plan), day 1 is go-live (installing and deploying your LLM), and day 2 is continuous operations (including backups and user authentication) and everything else that comes after going live.  
 
 
-### Educators
+### Trainers
 
-- **Dr. Sebastian Lobentanzer:** Uni Heidelberg - Biomedical researcher and developer of [BioChatter](https://biochatter.org/)
-- **Prof. Dr. Fabian Praßer:** Berlin Institute of Health @ Charite - Head of [Medical Informatics Group](https://www.bihealth.org/en/research/research-group/prasser-lab-medical-informatics)
-- **Dr. Jeanne Wilbrandt:** Leibniz Institute on Aging - Fritz Lipmann Institute -  [Data Steward](https://www.leibniz-fli.de/research/good-scientific-practice/data-steward-at-fli)
-- **Martin Braun:** Berlin Institute of Health @ Charite - Developer at the [Research Group Cloud & IT](https://www.hidih.org/research/health-data)
-- **Jakob Mathis:** Berlin Institute of Health @ Charite - Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
-- **Foo Wei Ten:** Berlin Institute of Health @ Charite - Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
+- **Dr. Sebastian Lobentanzer:** Uni Heidelberg – Biomedical researcher and developer of [BioChatter](https://biochatter.org/)
+- **Prof. Dr. Fabian Praßer:** Berlin Institute of Health @ Charite – Head of [Medical Informatics Group](https://www.bihealth.org/en/research/research-group/prasser-lab-medical-informatics)
+- **Dr. Jeanne Wilbrandt:** Leibniz Institute on Aging – Fritz Lipmann Institute –  [Data Steward](https://www.leibniz-fli.de/research/good-scientific-practice/data-steward-at-fli)
+- **Martin Braun:** Berlin Institute of Health @ Charite – Developer at the [Research Group Cloud & IT](https://www.hidih.org/research/health-data)
+- **Jakob Mathis:** Berlin Institute of Health @ Charite – Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
+- **Foo Wei Ten:** Berlin Institute of Health @ Charite – Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
 
 
 ### Participants
 
-**Target audience:** Everyone interested in digging into the technical and organisational details of deploying Large Language Models for research via cloud infrastructure. Our educators are mainly from a biomedical and IT background. However, we are looking forward to interdisciplinary exchange with research-developers and developer-researchers from all kinds of academic disciplines.
+**Target audience:** Everyone interested in digging into the technical and organizational details of deploying large language models for research via cloud infrastructure. Most of our trainers come from a biomedical and IT background. However, we are looking forward to an interdisciplinary exchange with research-developers and developer-researchers from all kinds of academic disciplines.
 
-**Prerequisites:**  For following the practical exercises, you will need at least basic terminal knowledge (Linux/OSX Terminal). Technical affinity and previous coding experience will help you on your way. We will provide detailed written step-by-step instructions for everyone throughout and after the workshop. 
+**Prerequisites:**  In order to be able to follow the practical exercises, you will need at least basic terminal knowledge (Linux/OSX Terminal). An affinity for IT and previous coding experience will help you on your way. We will provide detailed step-by-step instructions in writing for everyone throughout and after the workshop. 
 
-**Learning goals:** Participants will deploy their own LLM in the de.NBI cloud by a step-by-step guided journey through a complete lifecycle from design via deployment to productive operation.
+**Learning goals:** Participants will deploy their own LLM in the de.NBI cloud via a step-by-step guided journey throughout an entire lifecycle from design via deployment to productive operation.
 
 ### Content
 
-- **Day 1:** How to Cloud - Introduction, de.NBI Cloud & Project Idea  
+- **Day 1:** How to Cloud – Introduction, de.NBI Cloud & Project Idea  
     
-- **Day 2:**  How to Data - Data Management, Data Protection & Data Ethics  
+- **Day 2:**  How to Data – Data Management, Data Protection & Data Ethics  
   
-- **Day 3:** How to LLM - Installation & Deployment of a Large Language Model 
+- **Day 3:** How to LLM – Installation & Deployment of a Large Language Model 
     
-- **Day 4:** How to Service  - Ensuring Continous Support throughout Operation  
+- **Day 4:** How to Service  – Ensuring Continuous Support throughout Operations  
   
-- **Day 5:** How to Success -  Real Life Examples, Q&A and Discussion  
+- **Day 5:** How to Success –  Real-Life Examples, Q&A and Discussion  
 
   
-### Organisational details
+### Organizational details
 
-**Dates:** Monday 16th - Friday 20th September 2024 
+**Dates:** Monday 16th – Friday 20th September 2024 
 
-**Duration:** Daily, ca. 4h including breaks
+**Duration:** Approx. 4h per day, including breaks
 
 **Location:** Online via Microsoft Teams
 
-**Contact:** For more information email Lisa Schaak, [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de)
+**Contact:** For more information, please email Lisa Schaak, [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de)
 
-**Registration:** Please register via [the events.hifis.net webform](https://terminplaner6.dfn.de/b/8b6fa4ec4fbfa0274dec31ad9635ed3e-804773) by Monday 9th September 2024. There is a maximum of 35 participants for the hands-on part. First come, first serve. Afterwards it's listening-only.
+**Registration:** Please register via [the events.hifis.net webform](https://terminplaner6.dfn.de/b/8b6fa4ec4fbfa0274dec31ad9635ed3e-804773) by Monday 9th September 2024. Participation in the hands-on section is limited to a maximum of 30 people. First come, first served. After that, it’s listening-only.
 
-**Costs & Benefits:** Registration for the [de.KCD](https://datenkompetenz.cloud/) Summer School is free of charge. We will not be able to offer any ECTS credit points but we can provide you with a certificate of attendance if you wish so. 
-
-
+**Costs & Benefits:** Registration for the [de.KCD](https://datenkompetenz.cloud/) summer school is free of charge. We will not be able to offer any ECTS credit points but we can provide you with a certificate of attendance upon request. 
 
 
-*We will continue to update this website until the start of the Summer School - Stay tuned!*
+*We will continue to update this website until the start of the summer school – stay tuned!*
