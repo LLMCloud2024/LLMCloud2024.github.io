@@ -17,7 +17,7 @@ Ever wanted to look behind the – technical and organizational – scenes of la
 
 This summer school will provide practical answers by working with you on your own hands-on sample LLM in the [de.NBI cloud](https://www.denbi.de/cloud). It is part of the [de.KCD](https://datenkompetenz.cloud/) project which aims to systematize and share the unique competence and knowledge of the de.NBI community – e.g., with regard to difficult topics such as handling sensitive data – across different sites and disciplines. Instead of struggling through the steps on your own and reinventing the AI wheel over and over again, we aim to pool our joint expertise and provide you with a shared, tried-and-tested workflow for cutting-edge research.
 
-Over the course of the week, we will walk you through the entire lifecycle of LLM deployment in the cloud. We will take a deep dive into the individual stages of the “day zero one two operation” concept of software engineering – where day 0 is the planning and design phase (including setting up your cloud access and drafting your data management plan), day 1 is go-live (installing and deploying your LLM), and day 2 is continuous operations (including backups and user authentication) and everything else that comes after going live.  
+Over the course of the week, we will walk you through the entire lifecycle of LLM deployment in the cloud. We will take a deep dive into the individual stages of the “day zero one two operation” concept of software engineering – where day 0 is the planning and design phase (including setting up your cloud access and drafting your data management plan), day 1 is go-live (installing and deploying your LLM), and day 2 is continuous operations (including backups and user authentication).
 
 
 ### Trainers
