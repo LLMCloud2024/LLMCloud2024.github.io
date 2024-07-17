@@ -29,7 +29,7 @@ Now we are finally ready for the long awaited action: today we will be deploying
 
 ### Day 4: Thursday, September 19, 2024
 
-* **How to Service**  – Ensuring continuous support throughout operations  
+* **How to Service**  – Ensuring Continuous Support Throughout Operations  
   
 We are live – but for how long? Today we will take another deep dive into the technical details – such as Let’s Encrypt certificates, reverse proxy, user authentication and backup – that are fundamental to keeping our service up and running.
   

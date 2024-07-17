@@ -13,7 +13,7 @@ title: Home
 
 ### About
 
-Ever wanted to look behind the – technical and organizational – scenes of large language models (LLMs) ? Already have your own AI research project sketched out but unsure of how to actually get started? Looking for cloud storage to power up your LLM but getting caught up in regulatory requirements?
+Ever wanted to look behind the – technical and organizational – scenes of large language models (LLMs)? Already have your own AI research project sketched out but unsure of how to actually get started? Looking for cloud storage to power up your LLM but getting caught up in regulatory requirements?
 
 This summer school will provide practical answers by working with you on your own hands-on sample LLM in the [de.NBI cloud](https://www.denbi.de/cloud). It is part of the [de.KCD](https://datenkompetenz.cloud/) project which aims to systematize and share the unique competence and knowledge of the de.NBI community – e.g., with regard to difficult topics such as handling sensitive data – across different sites and disciplines. Instead of struggling through the steps on your own and reinventing the AI wheel over and over again, we aim to pool our joint expertise and provide you with a shared, tried-and-tested workflow for cutting-edge research.
 
@@ -34,7 +34,7 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 
 **Target audience:** Everyone interested in digging into the technical and organizational details of deploying large language models for research via cloud infrastructure. Most of our trainers come from a biomedical and IT background. However, we are looking forward to an interdisciplinary exchange with research-developers and developer-researchers from all kinds of academic disciplines.
 
-**Prerequisites:**  In order to be able to follow the practical exercises, you will need at least basic terminal knowledge (Linux/OSX Terminal). An affinity for IT and previous coding experience will help you on your way. We will provide detailed step-by-step instructions in writing for everyone throughout and after the workshop. 
+**Prerequisites:**  In order to be able to follow the practical exercises, you will need at least basic terminal knowledge (Linux/OSX Terminal). An affinity for IT and previous coding experience will help you on your way. We will provide detailed step-by-step instructions in writing throughout and after the workshop. 
 
 **Learning goals:** Participants will deploy their own LLM in the de.NBI cloud via a step-by-step guided journey throughout an entire lifecycle from design via deployment to productive operation.
 
@@ -53,15 +53,16 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
   
 ### Organizational details
 
-**Dates:** Monday 16th – Friday 20th September 2024 
+**Dates:** Monday September 16 - Friday September 20, 2024.
 
-**Duration:** Approx. 4h per day, including breaks
+**Duration:** Approx. 4h per day, including breaks.
 
-**Location:** Online via Microsoft Teams
+**Location:** Online via Microsoft Teams.
 
 **Contact:** For more information, please email Lisa Schaak, [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de).
 
-**Registration:** Please register via the [events.hifis.net webform](https://terminplaner6.dfn.de/b/8b6fa4ec4fbfa0274dec31ad9635ed3e-804773) by Monday 9th September 2024. Participation in the hands-on section is limited to a maximum of 30 people. First come, first served. 
+**Registration:** Please register via the [events.hifis.net webform]() by Monday 9th September 2024. Participation in the hands-on section is limited to a maximum of 30 people. First come, first served. 
+
 **Costs & Benefits:** Registration for the [de.KCD](https://datenkompetenz.cloud/) summer school is free of charge. We will not be able to offer any ECTS credit points but we can provide you with a certificate of attendance upon request. 
 
 
