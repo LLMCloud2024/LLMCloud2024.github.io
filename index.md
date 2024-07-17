@@ -13,7 +13,7 @@ title: Home
 
 ### About
 
-Ever wanted to look behind the – technical and organizational – scenes of large language models ? Already have your own AI research project sketched out but unsure of how to actually get started? Looking for cloud storage to power up your LLM but getting caught up in regulatory requirements?
+Ever wanted to look behind the – technical and organizational – scenes of large language models (LLMs) ? Already have your own AI research project sketched out but unsure of how to actually get started? Looking for cloud storage to power up your LLM but getting caught up in regulatory requirements?
 
 This summer school will provide practical answers by working with you on your own hands-on sample LLM in the [de.NBI cloud](https://www.denbi.de/cloud). It is part of the [de.KCD](https://datenkompetenz.cloud/) project which aims to systematize and share the unique competence and knowledge of the de.NBI community – e.g., with regard to difficult topics such as handling sensitive data – across different sites and disciplines. Instead of struggling through the steps on your own and reinventing the AI wheel over and over again, we aim to pool our joint expertise and provide you with a shared, tried-and-tested workflow for cutting-edge research.
 
@@ -23,11 +23,11 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 ### Trainers
 
 - **Dr. Sebastian Lobentanzer:** Uni Heidelberg – Biomedical researcher and developer of [BioChatter](https://biochatter.org/)
-- **Prof. Dr. Fabian Praßer:** Berlin Institute of Health @ Charite – Head of [Medical Informatics Group](https://www.bihealth.org/en/research/research-group/prasser-lab-medical-informatics)
+- **Prof. Dr. Fabian Praßer:** Berlin Institute of Health @ Charité – Head of [Medical Informatics Group](https://www.bihealth.org/en/research/research-group/prasser-lab-medical-informatics)
 - **Dr. Jeanne Wilbrandt:** Leibniz Institute on Aging – Fritz Lipmann Institute –  [Data Steward](https://www.leibniz-fli.de/research/good-scientific-practice/data-steward-at-fli)
-- **Martin Braun:** Berlin Institute of Health @ Charite – Developer at the [Research Group Cloud & IT](https://www.hidih.org/research/health-data)
-- **Jakob Mathis:** Berlin Institute of Health @ Charite – Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
-- **Foo Wei Ten:** Berlin Institute of Health @ Charite – Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
+- **Martin Braun:** Berlin Institute of Health @ Charité – Developer at the [Research Group Cloud & IT](https://www.hidih.org/research/health-data)
+- **Jakob Mathis:** Berlin Institute of Health @ Charité – Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
+- **Foo Wei Ten:** Berlin Institute of Health @ Charité – Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
 
 
 ### Participants
@@ -59,10 +59,9 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 
 **Location:** Online via Microsoft Teams
 
-**Contact:** For more information, please email Lisa Schaak, [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de)
+**Contact:** For more information, please email Lisa Schaak, [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de).
 
-**Registration:** Please register via [the events.hifis.net webform](https://terminplaner6.dfn.de/b/8b6fa4ec4fbfa0274dec31ad9635ed3e-804773) by Monday 9th September 2024. Participation in the hands-on section is limited to a maximum of 30 people. First come, first served. After that, it’s listening-only.
-
+**Registration:** Please register via the [events.hifis.net webform](https://terminplaner6.dfn.de/b/8b6fa4ec4fbfa0274dec31ad9635ed3e-804773) by Monday 9th September 2024. Participation in the hands-on section is limited to a maximum of 30 people. First come, first served. 
 **Costs & Benefits:** Registration for the [de.KCD](https://datenkompetenz.cloud/) summer school is free of charge. We will not be able to offer any ECTS credit points but we can provide you with a certificate of attendance upon request. 
 
 
