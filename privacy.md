@@ -13,6 +13,7 @@ The following information must be provided to you in accordance with Art. 13 of 
 Controller for the purposes of the EU GDPR, other data protection laws applicable in Member states of the European Union and other provisions related to data protection is: 
 
 Berliner Institut für Gesundheitsforschung in der Charité  
+Translationsforschungsbereich der Charité – Universitätsmedizin Berlin  
 Anna-Louisa-Karsch-Str. 2  
 D-10178 Berlin  
 Website: [https://www.bihealth.org/en/](https://www.bihealth.org/en/)  
