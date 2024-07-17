@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 ---
 
-The summer school will take place from **Monday, September 16, to Friday, September 16, 2024**. Please see below for a preliminary agenda.
+The summer school will take place from **Monday, September 16**, to **Friday, September 16, 2024**. Please see below for a preliminary agenda.
 
 
 ### Day 1: Monday, September 16, 2024
