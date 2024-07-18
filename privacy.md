@@ -2,7 +2,7 @@
 layout: page
 title: Privacy
 ---
-### Data Privacy Information according to Art. 13, 14 and 21 EU GDPR: de.KCD Summer School 2024
+#### Data Privacy Information according to Art. 13, 14 and 21 EU GDPR for the de.KCD Summer School 2024
 
 Personal data is any information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data or an online identifier.
 
@@ -51,7 +51,7 @@ We pass on your personal data within our institution to those areas that require
 
 During your registration with the Helmholtz Federated IT Services tool [events.hifis.net](events.hifis.net), your data is shared with Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, D-22607 Hamburg. For further information you can refer to [their pricacy policy](https://www.desy.de/data_privacy_policy/index_eng.html).
 
-#### Transfer of data to a third country or an international organisation
+#### Transfer of data to a third country or an international organization
 
 No data processing takes place outside the EU or the EEA.
 
@@ -83,7 +83,7 @@ Email: [mailbox@datenschutz-berlin.de](mailto:mailbox@datenschutz-berlin.de)
 
 #### Provision of data
 
-The provision of your personal data is based on your consent (Article para. 1 lit. a EU GDPR). If you do not give your consent, you cannot be provided with access to the "de.KCD Summer School 2024 - Deploying LLMs in the Cloud".
+The provision of your personal data is based on your consent (Article para. 1 lit. a EU GDPR). If you do not give your consent, you cannot be provided with access to the de.KCD Summer School 2024.
 
 #### Automated decision-making / profiling
 
@@ -94,7 +94,6 @@ Your data will not be used for automated decision-making or profiling.
 This website does not use any cookies. We provide this website by using github.com. Their data protection agreement is available [here](https://github.com/customer-terms/github-data-protection-agreement).
 
 *Last Update: July 17, 2024*
-
 
 
 
