@@ -8,8 +8,9 @@ title: Home
  <b>Summer School</b> ⬤ <b> de.NBI Cloud</b> ⬤ <b> Large Language Models</b> ⬤ <b> September 16-20, 2024</b> ⬤ <b> Online</b> 
 </p>
 <p align="center">
-  <b><a href="https://events.hifis.net/event/1712/">>> Register here <<</a></b>
+  <b><a href="https://events.hifis.net/event/1712">>> Register here <<</a></b>
 </p>
+
 
 ### About
 
