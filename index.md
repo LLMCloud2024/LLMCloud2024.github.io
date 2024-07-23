@@ -20,7 +20,6 @@ This summer school will provide practical answers by working with you on your ow
 
 Over the course of the week, we will walk you through the entire lifecycle of LLM deployment in the cloud. We will take a deep dive into the individual stages of the “day zero one two operation” concept of software engineering – where day 0 is the planning and design phase (including setting up your cloud access and drafting your data management plan), day 1 is go-live (installing and deploying your LLM), and day 2 is continuous operations (including backups and user authentication).
 
-
 ### Trainers
 
 - **Dr. Sebastian Lobentanzer:** Uni Heidelberg – Biomedical researcher and developer of [BioChatter](https://biochatter.org/)
