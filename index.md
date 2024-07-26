@@ -35,7 +35,7 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 
 **Target audience:** Everyone interested in digging into the technical and organizational details of deploying large language models for research via cloud infrastructure. Most of our trainers come from a biomedical and IT background. However, we are looking forward to an interdisciplinary exchange with research-developers and developer-researchers from all kinds of academic disciplines.
 
-**Prerequisites:**  In order to be able to follow the practical exercises, you will need at least basic terminal knowledge. Some experience with programming languages - ideally python, but R, perl, SQL etc. are also fine - and basic knowledge of docker is recommended.
+**Prerequisites:**  In order to be able to follow the practical exercises, you will need at least basic terminal knowledge. Some experience with programming languages - ideally python, but R, perl, SQL etc. are also fine - and basic knowledge of docker is recommended. We will provide detailed step-by-step instructions in writing throughout and after the workshop.
 
 **Learning goals:** Participants will deploy their own LLM in the de.NBI cloud via a step-by-step guided journey throughout an entire lifecycle from design via deployment to productive operation.
 
