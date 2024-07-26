@@ -97,7 +97,9 @@ Your data will not be used for automated decision-making or profiling.
 
 #### Usage of this Website
 
-This website does not use any cookies. We provide this website by using github.com. Their data protection agreement is available [here](https://github.com/customer-terms/github-data-protection-agreement).
+This website does not use any cookies. We provide this website by using github.com. When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+
 
 *Last Update: July 22, 2024*
 
